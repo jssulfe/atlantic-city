@@ -15,18 +15,18 @@ export default function Home() {
         </div>
         <div class="right-header">
           <div>
-            <a href="#gallery">Apuestas en vivo</a>
-            <a href="#create">Apuestas deportivas</a>
-            <a href="#ideas">Casino</a>
-            <a href="#doit">Juegos Virtuales</a>
-            <a href="#funcionality">Promociones</a>
+            <a href="#">Apuestas en vivo</a>
+            <a href="#">Apuestas deportivas</a>
+            <a href="#">Casino</a>
+            <a href="#">Juegos Virtuales</a>
+            <a href="#">Promociones</a>
           </div>
           <div class="login">
             <div class="login-button">
-              <a href="/html/login.html">Iniciar Sesión</a>
+              <a href="">Iniciar Sesión</a>
             </div>
             <div class="register-button">
-              <a href="/html/login.html">Regístrate</a>
+              <a href="">Regístrate</a>
             </div>
           </div>
         </div>
